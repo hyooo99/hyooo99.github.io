@@ -212,7 +212,12 @@ career_list:
   color: color-1
   icon: icon-pen2
   animation: fadeInRight
-
+- name : 2023 K-startup 창업
+  data : 2023.04 ~ 2023.12
+  content : 중고거래 통합 중고 시세 알림앱 개발
+  color: color-2
+  icon: icon-pen3
+  animation: fadeInRight
 
 # Education
 edu_meta: Education
